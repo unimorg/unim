@@ -2,7 +2,7 @@
 
 Distributed application development framework base on ipfs
 
-*make a rethink about http*
+*have a rethink about http*
 
 ## Plan
 
